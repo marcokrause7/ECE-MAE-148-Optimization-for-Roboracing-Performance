@@ -5,11 +5,11 @@ Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VE
 
 
 # Hardware Using:
-Traxxas Chassis
-Jetson Nano
-Sparkfun Artemis IMU
-Flipsky VESC 4.12
-LD06 Lidar
+Traxxas Chassis,
+Jetson Nano,
+Sparkfun Artemis IMU,
+Flipsky VESC 4.12,
+LD06 Lidar,
 F710 Logitech joystick controller
 
 
