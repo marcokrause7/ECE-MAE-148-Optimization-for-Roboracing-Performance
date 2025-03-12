@@ -1,7 +1,10 @@
 # ECE-MAE-148-Optimization-for-Roboracing-Performance
+
+# Description
 Optimizing Vehicle Racing Performance using SLAM and EKF with Artemis IMU and VESC outputs. Planning a optimal trajectory raceline using Pure Pursuit/Model and Acceleration-based Pursuit. Based on ForzaETH repo.
 
-Hardware Using:
+
+# Hardware Using:
 Traxxas Chassis
 Jetson Nano
 Sparkfun Artemis IMU
@@ -10,10 +13,10 @@ LD06 Lidar
 F710 Logitech joystick controller
 
 
-References:
+
+# References:
 https://github.com/ForzaETH/race_stack/blob/main/README.md
 and associated repo's that ForzaETH used...
-
 
 @article{baumann2024forzaeth,
   title={ForzaETH Race Stack—Scaled Autonomous Head-to-Head Racing on Fully Commercial Off-the-Shelf Hardware},
